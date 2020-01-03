@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Andrea-Monserrat/100daysofcode/master/assets/icon.png?raw=true" alt="Example"/>
+    <img src="https://github.com/Andrea-Monserrat/100daysofcode/master/icon.png?raw=true" alt="Example"/>
 </p>
 
 ## **#100DaysOfCode**
