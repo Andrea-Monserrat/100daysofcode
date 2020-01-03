@@ -1,11 +1,12 @@
 <p align="center">
-    <img src="https://github.com/Andrea-Monserrat/Albatroz/blob/twitter/design/icon.png?raw=true" alt="Example"/>
+    <img src="https://github.com/Andrea-Monserrat/100daysofcode/icon.png?raw=true" alt="Example"/>
 </p>
 
-## **Albatroz**
-* Webscrapping from A to Z
-* Just **one input**
-* NLP Categorization
-* Sentiment Analysis
-* and much, much more...
-> Developed by **[Dataloop Mexico](http://dataloop.mx/): [Andrea Arredondo](https://twitter.com/0698amar)** and  **[Fernando Kuri](https://twitter.com/kuriloop)**.
+## **#100DaysOfCode**
+In this year, my personal purpose it´s the develop to new aventure where to learn:
+-Pytorch
+-Javascript
+- and much, much more...
+
+
+> Developed by **[Andrea Arredondo](https://twitter.com/AndreMonserratt)** 
