@@ -5,9 +5,9 @@
 
 ## **#100DaysOfCode**
 In this year, my personal purpose it´s the develop to new aventure where to learn:
-*-Pytorch
-*-Javascript
-*- and more...
+*Pytorch
+*Javascript
+* and more...
 
 
 > Developed by **[Andrea Arredondo](https://twitter.com/AndreMonserratt)** 
